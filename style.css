@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Londrina+Sketch&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --fonte-titulo: "Londrina Sketch", sans-serif;
+    --fonte-titulo-2: "Edu AU VIC WA NT Guides", cursive;
+    --fonte-texto: "Open Sans", sans-serif;
+    --preto: #000814ff;
+    --azul-escuro: #001d3dff;
+    --azul: #003566ff;
+    --cinza: #c6d4ffff;
+    --cinza-escuro: #7a82abff;
+    --verde: #307473ff;
+    --verde-claro: #12664fff;
+    --verde-azulado: #2dc2bdff;
+}
+
+body{
+    font-family: var(--fonte-titulo);
+    color: var(--cinza);
+    background-color: var(--verde);
+    
+}
