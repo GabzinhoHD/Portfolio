@@ -26,3 +26,13 @@ body {
 h1,h3{
     font-family: var(--fonte-titulo);
 }
+
+.card{
+    background-color: var(--verde-azulado);
+}
+.link {
+    text-decoration: none;
+    font-size:  1.8em;
+    color: var(--verde-claro);
+}
+
